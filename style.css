@@ -2,7 +2,7 @@
     font-family: Arial, sans-serif;
     margin: 20px;
 }
-.line{
+.hr{
     border: 1px solid black;
 }
 
@@ -28,6 +28,7 @@
     width: 400px;
     height: 200px;
     padding: 20px;
+     text-align:left;
 }
 
 .product-highlight{
@@ -49,7 +50,7 @@
     margin: 20px;
 }
 
-.line{
+.hr{
     border:1px solid black;
 }
 
@@ -91,7 +92,7 @@ a{
     margin: 20px;
 }
 
-.line{
+.hr{
     border:1px solid black;
 }
 
